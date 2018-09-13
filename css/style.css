@@ -1,0 +1,45 @@
+body {
+    font: 20px bold;
+}
+
+#searches{
+    width: 50%;
+
+}
+
+.search-for-item {
+    float: left;
+    padding: 12px;
+}
+
+form {
+    width: 40%;
+    float: right;
+    padding: 18px;
+}
+
+label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+button,input[type="submit"] {
+    background: darkblue;
+    color:silver;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px,25px;
+    font-size: 20px;
+    margin: 0 10px 10px 0;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px #bbb;
+}
+
+button:hover,
+input[type="submit"]:hover {
+    background: black;
+}
+button.active {
+    background:black;
+}

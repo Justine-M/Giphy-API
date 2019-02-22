@@ -1,6 +1,6 @@
 # Giphy-API
 
-The GIPHY API is used to make a dynamic web page that populates with gifs of your choice. The GIPHY API was called and JavaScript and jQuery was used to change the HTML of the site.
+The GIPHY API is used to make a dynamic web page that populates with gifs of your choice. The GIPHY API was called and JavaScript and jQuery is used to change the HTML of the site.
 
 When you click on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
 
